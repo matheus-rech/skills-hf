@@ -26,13 +26,13 @@ Hugging Face skills are compatible with Claude Code, Codex, and Gemini CLI. With
 2. To install a skill, run:  
    
 ```
-/plugin install <skill-folder>@huggingface-skills
+/plugin install <skill-name>@huggingface/skills
 ```
 
 For example:  
 
 ```
-/plugin install model-trainer@huggingface-skills
+/plugin install hugging-face-cli@huggingface/skills
 ```
 
 ### Codex
